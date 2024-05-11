@@ -1,6 +1,9 @@
 # VBA-Data-Query-Tool
 Summary: Tool that interfaced with OSISoft Pi to output millions of rows digestible for Spotfire, JMP, or Tableau
 
+Video Preview:
+[Click Here](https://www.youtube.com/watch?v=nA4rMdolWsE) to see a video demonstration of the VBA GUI.
+
 Goal:
 
 - Create a tool that can be used by anyone (non-programmers) that can quickly and simply compile multiple Pi Data tags across multiple bioreactors.
